@@ -1,0 +1,125 @@
+{
+    "": [
+        "readme.md", 
+        "python", 
+        "blog", 
+        "share", 
+        "private", 
+        "growth", 
+        "learngit"
+    ], 
+    "blog/source": [
+        "why-i-write-on-github.md", 
+        "toc.md", 
+        "how-to-built-my-blog.md"
+    ], 
+    "python": [
+        "install.md"
+    ], 
+    "share": [
+        "readme.md", 
+        "share.wiki"
+    ], 
+    "private/source": [
+        "2019w16.md", 
+        "19w17.md", 
+        "2019m4.md"
+    ], 
+    "private": [
+        "readme.md", 
+        "license.md", 
+        "source"
+    ], 
+    "blog": [
+        "source"
+    ], 
+    "learngit": [
+        "github-how.md", 
+        "github-why.md", 
+        "note.md", 
+        "github-what.md", 
+        "readme.txt"
+    ], 
+    "growth": [
+        "\u7528\u6237\u5206\u5c42.md", 
+        "readme.md"
+    ], 
+    "__positions": {
+        "share/share.wiki/medical-treatment.md": 4002001, 
+        "share/share.wiki/simple-life.md": 4002005, 
+        "private/readme.md": 5001, 
+        "share": 4, 
+        "blog/source/how-to-built-my-blog.md": 3001003, 
+        "private/source": 5003, 
+        "growth": 6, 
+        "private/license.md": 5002, 
+        "learngit/readme.txt": 7005, 
+        "share/share.wiki": 4002, 
+        "private/source/2019w16.md": 5003001, 
+        "learngit/note.md": 7003, 
+        "blog/source/toc.md": 3001002, 
+        "blog": 3, 
+        "learngit/github-what.md": 7004, 
+        "python/install.md": 2001, 
+        "share/share.wiki/email-communication.md": 4002002, 
+        "private/source/19w17.md": 5003002, 
+        "blog/source/why-i-write-on-github.md": 3001001, 
+        "python": 2, 
+        "share/share.wiki/_sidebar.md": 4002003, 
+        "private/source/2019m4.md": 5003003, 
+        "share/share.wiki/_footer.md": 4002004, 
+        "learngit/github-why.md": 7002, 
+        "private": 5, 
+        "readme.md": 1, 
+        "share/share.wiki/home.md": 4002006, 
+        "blog/source": 3001, 
+        "learngit": 7, 
+        "growth/\u7528\u6237\u5206\u5c42.md": 6001, 
+        "share/readme.md": 4001, 
+        "growth/readme.md": 6002, 
+        "learngit/github-how.md": 7001
+    }, 
+    "share/share.wiki": [
+        "medical-treatment.md", 
+        "email-communication.md", 
+        "_sidebar.md", 
+        "_footer.md", 
+        "simple-life.md", 
+        "home.md"
+    ], 
+    "__raw_positions": {
+        "share/share.wiki/medical-treatment.md": 1, 
+        "share/share.wiki/simple-life.md": 5, 
+        "private/readme.md": 1, 
+        "share": 4, 
+        "blog/source/how-to-built-my-blog.md": 3, 
+        "growth": 6, 
+        "learngit/github-how.md": 1, 
+        "learngit/readme.txt": 5, 
+        "share/share.wiki/_footer.md": 4, 
+        "share/share.wiki": 2, 
+        "private/source/2019w16.md": 1, 
+        "private/license.md": 2, 
+        "learngit/note.md": 3, 
+        "blog/source/toc.md": 2, 
+        "blog": 3, 
+        "learngit/github-what.md": 4, 
+        "python/install.md": 1, 
+        "share/share.wiki/email-communication.md": 2, 
+        "private/source/19w17.md": 2, 
+        "blog/source/why-i-write-on-github.md": 1, 
+        "python": 2, 
+        "share/share.wiki/_sidebar.md": 3, 
+        "private/source/2019m4.md": 3, 
+        "learngit": 7, 
+        "learngit/github-why.md": 2, 
+        "private": 5, 
+        "readme.md": 1, 
+        "share/share.wiki/home.md": 6, 
+        "blog/source": 1, 
+        "private/source": 3, 
+        "growth/\u7528\u6237\u5206\u5c42.md": 1, 
+        "growth/readme.md": 2, 
+        "share/readme.md": 1
+    }
+}
