@@ -15,7 +15,7 @@
         "how-to-built-my-blog.md"
     ], 
     "python": [
-        "cammand line.md", 
+        "cammand_line.md", 
         "python\u5728\u91d1\u878d\u9886\u57df\u7684\u5e94\u7528.md", 
         "install.md"
     ], 
@@ -84,10 +84,10 @@
         "share/share.wiki/home.md": 3001009, 
         "blog/source": 2001, 
         "private/source": 4003, 
+        "python/cammand_line.md": 1001, 
         "growth/\u7528\u6237\u5206\u5c42.md": 6001, 
         "growth/readme.md": 6002, 
         "share/share.wiki/_footer.md": 3001007, 
-        "python/cammand line.md": 1001, 
         "share/share.wiki/2019m4.md": 3001001
     }, 
     "share/share.wiki": [
@@ -137,10 +137,10 @@
         "share/share.wiki/home.md": 9, 
         "blog/source": 1, 
         "private/source": 3, 
+        "python/cammand_line.md": 1, 
         "growth/\u7528\u6237\u5206\u5c42.md": 1, 
         "growth/readme.md": 2, 
         "private/license.md": 2, 
-        "python/cammand line.md": 1, 
         "share/share.wiki/2019m4.md": 1
     }
 }
