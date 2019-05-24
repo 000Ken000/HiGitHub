@@ -1,9 +1,8 @@
 # 如何搭建GitPress博客
-
 本文记录个人在搭建GitPress博客的流程。
 
 ##目标描述
-**流程**：通过本地ME编辑，github desk或git命令行同步到github，发布到gitrpess和公众号。
+**工作流**：本地ME编辑文章内容，终端git命令行发布到github和gitrpess，公众号推送。只维护本地md文件
 **重点**: 
 #### 入门
 1. 用GitHub帐号开通GitPress，关联一个GitHub Repo(etc."Blog")；选择文章同步路径（etc."/source")
