@@ -1,4 +1,2 @@
-# HiGitHub
-Record Something On My Learn-Git track.
-
+# 个人随想，心得体会
 分享日常思考，体会，感悟
